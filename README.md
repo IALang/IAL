@@ -16,3 +16,7 @@ Orthography: m k j p w n t s a i u
 
 All words are either CV or CVCV.
 
+## Vocabulary
+
+- Particles (idk if this is the right word):
+  - Na - negative particle
