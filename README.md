@@ -50,13 +50,16 @@ All words are either V, CV or CVCV - this allows for exactly 603 words.
    - Kuta - go
    - Kima - say
    
+ - Adjectives/adverbs:
+    - Wuta - big
+    - Patu - fast
+    - Mini - many, more than one
+   
 ## Examples
 
-Mi na kana kapi wimu jami - I do not see a car near the house
+Mi na kana kapi wimu mini jami - I do not see a car near the houses
 This could also be phrased as:
 
- - Mi kana na kapi jami wimu
- - Kana na mi wimu jami kapi
+ - Mi kana na kapi mini jami wimu
+ - Kana na mi wimu jami mini kapi
  - Probably more ways too
-
-
