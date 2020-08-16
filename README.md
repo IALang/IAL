@@ -24,10 +24,23 @@ All words are either CV or CVCV.
   - Na - negative particle
   - Ma - question particle
   
- - Adpostions
+- Adpostions
    - Wimu - with, near
    - Kini - to, towards, in the direction of
    - Tuta - from, away
    - Tani - in, on, at
+   
+- Nouns
+    - Penu - person
+    - Kapi - car
+    - Jamu - house
+    
+- Pronouns
+  - Mi - I, me, my
+  - Mimi - use, we, our
+  - Ni - you, yours
+  - Nini - same as above but plural
+  - Ja - he, him, his
+  - Jaja - they, them theirs
 
 
