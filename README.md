@@ -37,10 +37,24 @@ All words are either CV or CVCV.
     
 - Pronouns
   - Mi - I, me, my
-  - Mimi - use, we, our
+  - Mimi - us, we, our
   - Ni - you, yours
   - Nini - same as above but plural
   - Ja - he, him, his
   - Jaja - they, them theirs
+  
+- Verbs
+   - Kana - see
+   - Kuta - go
+   - Kima - say
+   
+## Examples
+
+Mi na kana kapi wimu jami - I do not see a car near the house
+This could also be phrased as:
+
+ - Mi kana na kapi jami wimu
+ - Kana na mi wimu jami kapi
+ - Probably more ways too
 
 
