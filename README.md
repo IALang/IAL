@@ -10,8 +10,8 @@ The vocabulary is taken from the world's most-spoken languages.
 
 (This section probably needs some fixing up as I am not 100% with the notation and lots of it is tentative anyway)
 
-Consonants: /m k~g~x j p~b w n t~d s~z/
-Vowels: /a~α i~e u~o/
+Consonants: ```/m k~g~x j p~b w n t~d s~z/```
+Vowels: ```/a~α i~e u~o/```
 Orthography: m k j p w n t s a i u
 
 All words are either CV or CVCV.
