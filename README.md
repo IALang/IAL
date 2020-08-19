@@ -33,7 +33,7 @@ All words are either V, CV or CVCV - this allows for exactly 603 words.
    - Tani - in, on, at
    
 - Nouns
-    - Penu - person
+    - Panu - person
     - Kapi - car
     - Jamu - house
     
