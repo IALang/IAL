@@ -16,7 +16,7 @@ Vowels: ```/a~α i~e u~o/```
 
 Orthography: m k j p w n t s a i u
 
-All words are either V, CV or CVCV - this allows for exactly 603 words.
+All words are either V, CV, CVCV, CVCVCV or VCV - this allows for exactly 14499 words.
 
 ## Vocabulary
 
