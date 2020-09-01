@@ -18,6 +18,8 @@ Orthography: m k j p w n t s a i u
 
 All words are either V, CV, CVCV, CVCVCV or VCV - this allows for exactly 14499 words.
 
+No consonant or vowel clusters under any circumstances
+
 ## Vocabulary
 
 - Particles (idk if this is the right word):
