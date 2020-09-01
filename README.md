@@ -20,6 +20,8 @@ All words are either V, CV, CVCV, CVCVCV or VCV - this allows for exactly 14499 
 
 No consonant or vowel clusters under any circumstances
 
+## Grammar
+
 ## Vocabulary
 
 - Particles (idk if this is the right word):
