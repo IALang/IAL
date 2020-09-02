@@ -58,7 +58,15 @@ No consonant or vowel clusters under any circumstances
     - Wuta - big
     - Patu - fast
     - Mini - many, more than one
-   
+ 
+ - Needed Words:
+    - yes
+    - no
+    - want/need
+    - hello
+    - goodbye
+
+
 ## Examples
 
 Mi na kana kapi wimu mini jami - I do not see a car near the houses
